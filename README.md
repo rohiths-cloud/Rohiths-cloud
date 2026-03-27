@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohiths-cloud" alt="rohiths-cloud" /></a> </p>
 
-- 🔭 I’m currently studing on **BVoc Immersive Technology**
+- 🔭 I’m currently studing on **Bharathidasan University Trichy**
 
-- 🌱 I’m currently learning **AR/VR Development**
+- 🌱 I’m currently learning **Bvoc Immersive technology**
 
 - 👯 I’m looking to collaborate on **AR/VR Projects**
 
